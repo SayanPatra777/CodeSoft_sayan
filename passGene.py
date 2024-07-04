@@ -4,6 +4,7 @@ from tkinter import *
 root=Tk()
 root.title("Strong Password Generator")
 root.geometry("700x450")
+userEntty=IntVar
 
 # Get user input 
 UserEntry=IntVar()
